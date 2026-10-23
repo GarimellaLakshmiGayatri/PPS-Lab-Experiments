@@ -7,7 +7,7 @@ void main()
 	printf("Enter a,b,c:");
 	scanf("%d%d%d",&a,&b,&c);
 	sum=a+b+c;
-	avg=(a+b+c)/3;
+	avg=(a+b+c)/3.0;
 	printf("\nSum of %d,%d,%d : %d",a,b,c,sum);
 	printf("\nAverage of %d,%d,%d : %.2f",a,b,c,avg);
 }
