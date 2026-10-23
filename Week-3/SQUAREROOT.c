@@ -14,6 +14,6 @@ void main()
 	else
 	{
 		 square_root=sqrt(n);
-	     printf("\nSquare root of %d is %d",n,square_root);
+	     printf("\nSquare root of %d is %.2f",n,square_root);
     }
 }
