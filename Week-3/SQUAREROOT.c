@@ -3,7 +3,8 @@
 #include<math.h>
 void main()
 {
-	int n,square_root;
+	int n;
+	float square_root;
 	printf("Enter n:");
 	scanf("%d",&n);
 	if(n<0)
