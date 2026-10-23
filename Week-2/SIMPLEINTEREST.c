@@ -2,7 +2,7 @@
 #include<stdio.h>
 void main()
 {
-	int choice;
+	
 	float principal,time,rate,simple_interest;
 	printf("Enter principal,time,rate:");
 	scanf("%f%f%f",&principal,&time,&rate);
