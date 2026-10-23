@@ -13,7 +13,7 @@ void main()
 		f=(9*c)/5+32;
 		printf("\nTemperature in FAHRENHEIT:%f",f);		
 	}
-	else if(choice)
+	else if(choice==1)
 	{
 		printf("\nConversion from FAHRENHEIT to CELSIUS scale:");
 		printf("\nEnter temperature in fahrenheit:");
