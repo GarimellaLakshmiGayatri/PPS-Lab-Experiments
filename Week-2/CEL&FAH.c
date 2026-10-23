@@ -4,7 +4,7 @@ void main()
 {
 	float c,f,choice;
 	printf("Enter Choice:");
-	scanf("%d",&choice);
+	scanf("%f",&choice);
 	if(choice==0)
 	{
 		printf("\nConversion from CELSIUS to FAHRENHEIT scale:");
