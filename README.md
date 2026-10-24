@@ -24,11 +24,27 @@ This repository contains C programming solutions for weekly lab experiments. The
 
 ### [Week-2](./Week-2)
 
-* **Experiment 1:**[SUMAVG.c](./Week-2/SUMAVG.c) - Program to calculate the sum and average of 3 numbers.
+* **Experiment 1: **[CEL&FAH.c](./Week-2/CEL&FAH.c) - Program to convert temperature from Fahrenheit to Celsius and vice versa.
+  
+* **Experiment 2: **[SIMPLEINTEREST.c](./Week-2/SIMPLEINTEREST.c) -Program to calculate Simple Interest given principal_amount, rate,                         and  time
+  
+*  **EXPERIMENT 3: **[SUMAVG.c](./Week-2/SUMAVG.c) - Program to calculate the sum and average of 3 numbers.
 
-* **Experiment 2:**[CEL&FAH.c](./Week-2/CEL&FAH.c) - Program to convert temperature from Fahrenheit to Celsius and vice versa.
+### [Week-3](./Week-3)
 
-*  **EXPERIMENT 3:**[SIMPLEINTEREST.c](./Week-2/SIMPLEINTEREST.c) -Program to calculate Simple Interest given principal_amount, rate, and       time.
+* **Experiment 1: **[AREA_HERONS.c]( ./Week-3/AREA_HERONS.c) - Program to calculate area of a triangle using Heron's formula.
+
+*  **Experiment 2: **[COMPOUND_INTEREST.c](./Week-3/COMPOUND_INTEREST.c) - Program to find compound interest given the principal amount,                     rate of interest and time period.
+
+*  **Experiment 3: **[DISTANCE_TRAVELLED.c](./Week-3/DISTANCE_TRAVELLED.c) - Program to compute the distance travelled by an object.
+
+*   **Experiment 4: **[SQUAREROOT.C](./Week-3/SQUAREROOT.c) - Program to find  the square root of a given number.
+
+### [Week-4](./Week-4)
+
+* **Experiment 1: **[GIVEN_SUMS.c](./GIVEN_SUMS.c) - Program to evaluate specific operators and precedence expressions:
+
+  
 
 *  
   
