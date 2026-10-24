@@ -54,7 +54,10 @@ This repository contains C programming solutions for weekly lab experiments. The
 
 * **Experiment 2: **[MAX_MIN.c](./Week-5/MAX_MIN.c) - Program to find the maximum and minimum of four given numbers using if-else blocks. 
 
-  
+*  * **Experiment 3: **[ROOTS_OFEQN.c](./Week-5/ROOTS_OFEQN.c) - Program to find the roots of a quadratic equation.
 
-*  
+* **Experiment 4: **[CALCULATOR.c](./Week-5/CALCULATOR.c) - Menu-driven program to perform basic arithmetic operations.
+  
+* **Experiment 5: **[ATM_TRANSACTION.c](./Week-5/ATM_TRANSACTION.c) - Program simulating basic ATM functions like withdrawal and deposit.
+
   
