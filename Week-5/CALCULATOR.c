@@ -22,24 +22,24 @@ void main()
         case 2:
                 c=a-b;
                 printf("Result: %.2f\n",c);
-            break;
+                break;
         case 3: 
-            c=a*b;
-            printf("Result: %.2f\n",c);
-            break;
-        case 4:
-            if (b==0) 
-            {
-                printf("Division by zero is not possible\n");
-            } 
-            else 
-            {
-                c=a/b;
+                c=a*b;
                 printf("Result: %.2f\n",c);
-            }
-            break;
+                break;
+        case 4:
+                if (b==0) 
+                {
+                   printf("Division by zero is not possible\n");
+                } 
+                else 
+                {
+                   c=a/b;
+                   printf("Result: %.2f\n",c);
+                }
+                break;
         default:
-            printf("Invalid option\n");
+                printf("Invalid option\n");
             
     }
 }
