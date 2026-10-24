@@ -58,6 +58,5 @@ This repository contains C programming solutions for weekly lab experiments. The
 
 * **Experiment 4: **[CALCULATOR.c](./Week-5/CALCULATOR.c) - Menu-driven program to perform basic arithmetic operations.
   
-* **Experiment 5: **[ATM_TRANSACTION.c](./Week-5/ATM_TRANSACTION.c) - Program simulating basic ATM functions like withdrawal and deposit.
-
+* **Experiment 5: **[ELECTRICITY_BILL.c](./Week-5/ELECTRICITY_BILL.c) - Program to calculate household electricity bill based on consumption slabs.
   
