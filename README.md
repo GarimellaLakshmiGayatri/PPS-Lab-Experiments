@@ -32,7 +32,7 @@ This repository contains C programming solutions for weekly lab experiments. The
 
 ### [Week-3](./Week-3)
 
-* **Experiment 1: **[AREA_HERONS.c]( ./Week-3/AREA_HERONS.c) - Program to calculate area of a triangle using Heron's formula.
+* **Experiment 1: **[AREA_HERONS.c](./Week-3/AREA_HERONS.c) - Program to calculate area of a triangle using Heron's formula.
 
 *  **Experiment 2: **[COMPOUND_INTEREST.c](./Week-3/COMPOUND_INTEREST.c) - Program to find compound interest given the principal amount,                     rate of interest and time period.
 
