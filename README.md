@@ -20,7 +20,7 @@ This repository contains C programming solutions for weekly lab experiments. The
 
 ### [Week-1](./Week-1)  
 
-* **Experiment 1:**[AGEPRINTING.c](./Week-1/AGEPRINTING.c) - Simple C program using 'printf()' and 'scanf()'.
+* **Experiment 1: **[AGEPRINTING.c](./Week-1/AGEPRINTING.c) - Simple C program using 'printf()' and 'scanf()'.
 
 ### [Week-2](./Week-2)
 
@@ -42,7 +42,17 @@ This repository contains C programming solutions for weekly lab experiments. The
 
 ### [Week-4](./Week-4)
 
-* **Experiment 1: **[GIVEN_SUMS.c](./GIVEN_SUMS.c) - Program to evaluate specific operators and precedence expressions:
+* **Experiment 1: **[GIVEN_SUMS.c](./GIVEN_SUMS.c) - Program to evaluate specific operators and precedence expressions.
+
+*  **Experiment 2: **[MARKSHEET.c](./MARKSHEET.c) - Program to accept marks for 5 subjects and to calculate the total and floating point                      average
+
+*  **Experiment 3: **[MAX_3.c](./MAX_3.c) - Program to find the maximum of three numbers using the conditional(ternary) operator.
+
+### [Week-5](./Week-5)
+
+* **Experiment 1: **[LEAPYEAR_ORNOT.c](./LEAPYEAR_ORNOT.c) - Program to find a given year is leap year or not.
+
+* **Experiment 2: **[MAX_MIN.c](./MAX_MIN.c) - Program to find the maximum and minimum of four given numbers using if-else blocks. 
 
   
 
